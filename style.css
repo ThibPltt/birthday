@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(134, 190, 204);
+}
+
+h1{
+
+    margin : center;
+    font-size: 30px;
+    line-height: 2;
+    text-shadow: 2px 2px 1px black;
+}
+
+p{
+    color-interpolation-filters: auto;
+    margin : auto;
+    font-size: 30px;
+    display : none;
+}
+
+a{
+    margin: center;
+    color-interpolation-filters: auto;
+    margin : auto;
+    font-size: 30px;
+}
